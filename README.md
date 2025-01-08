@@ -1,3 +1,5 @@
+### © 2022 Gabriel-Claudiu TINTU
+
 # Octave Simulator
 
 The Octave Simulator project is a C program that emulates the functionalities of Octave, a powerful programming language primarily used for numerical computations. This simulator provides a command-line interface allowing users to perform various matrix operations with ease.
